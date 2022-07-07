@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_div_mod.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ogorfti <marvin@42.fr>                     +#+  +:+       +#+        */
+/*   By: ybenmans <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/26 17:41:13 by ogorfti           #+#    #+#             */
 /*   Updated: 2022/03/26 17:51:16 by ogorfti          ###   ########.fr       */
