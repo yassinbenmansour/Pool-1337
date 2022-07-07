@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_ultimate_div_mod.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ogorfti <marvin@42.fr>                     +#+  +:+       +#+        */
+/*   By: ybenmans <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/26 18:36:54 by ogorfti           #+#    #+#             */
 /*   Updated: 2022/03/27 11:41:25 by ogorfti          ###   ########.fr       */
