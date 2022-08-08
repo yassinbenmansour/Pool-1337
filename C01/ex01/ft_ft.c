@@ -27,9 +27,6 @@ void	ft_ft(int *nbr)
 	ft_putnbr(*nbr);
 }
 
-
-
-
 int main(){
     int *ptr ;
     int nbr ;
