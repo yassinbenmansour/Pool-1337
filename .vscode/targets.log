@@ -7,7 +7,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 
 # This program built for i386-apple-darwin11.3.0
 
-# Make data base, printed on Fri Aug 12 17:18:49 2022
+# Make data base, printed on Fri Aug 12 21:52:21 2022
 
 # Variables
 
@@ -62,7 +62,7 @@ VSCODE_CODE_CACHE_PATH = /Users/yassinebenmansour/Library/Application Support/Co
 # environment
 LOGNAME = yassinebenmansour
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 ZSH = /Users/yassinebenmansour/.oh-my-zsh
 # environment
@@ -218,7 +218,7 @@ GNUmakefile:
 # strcache size: total = 0 / max = 0 / min = 4096 / avg = 0
 # strcache free: total = 0 / max = 0 / min = 4096 / avg = 0
 
-# Finished Make data base on Fri Aug 12 17:18:49 2022
+# Finished Make data base on Fri Aug 12 21:52:21 2022
 
  
 make: *** No rule to make target `all'.  Stop.
