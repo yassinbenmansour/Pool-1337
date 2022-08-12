@@ -8,7 +8,6 @@ void	ft_hex(int nbr)
 	write(1, &hex[nbr / 16], 1);
 	write(1, &hex[nbr % 16], 1);
 }
-
 void	ft_putstr_non_printable(char *str)
 {
 	int	i;
